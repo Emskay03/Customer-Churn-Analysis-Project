@@ -125,4 +125,12 @@ A 3-minute project explanation covering:
 ---
 
 ## 📁 Project Structure
-
+├── data/
+│ └── telco_churn_clean.csv
+├── src/
+│ ├── eda.py
+│ ├── modeling.py
+│ └── preprocessing.py
+├── dashboard/
+│ └── Customer_Churn_Dashboard.twbx
+└── README.md
